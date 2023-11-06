@@ -14,7 +14,7 @@ app.use(express.static(__dirname)); // Serve arquivos estáticos na pasta atual 
 const db = mysql.createConnection({
     host: 'localhost',
     user: 'phpmyadmin',
-    password: 'aluno',
+    password: '0z0x0c0v0b0n0m',
     database: 'Medical'
 });
 
@@ -77,7 +77,7 @@ app.set('view engine', 'ejs');
 const newDb = mysql.createConnection({
     host: 'localhost',
     user: 'phpmyadmin',
-    password: 'aluno',
+    password: '0z0x0c0v0b0n0m',
     database: 'cadastros_medical_group',
 });
 
