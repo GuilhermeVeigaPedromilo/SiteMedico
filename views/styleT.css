@@ -5,6 +5,26 @@
 	margin: 0px;
 	padding: 0px;
 }
+.titulo {
+	font-size: 40px;
+	position: absolute;
+	left: 150px;
+	top: 36px;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	cursor: default;
+  }
+  
+	.logo {
+	width: 120px;
+	height: 120px;
+	border-radius: 5%;
+	position: absolute;
+	left: 10px;
+	top: 11%;
+	align-items: center;
+	justify-items: center;
+  }
 .e559_67 {
 	background-color: rgba(255, 255, 255, 1);
 	width: 1900px; 
@@ -366,15 +386,7 @@
 	letter-spacing: 0;
 	margin-left: 250px;
 }
-.logo { 
-	height: 144px;
-	width: 162px;
-	position: absolute;
-	margin-top: 0;
-	margin-left: 0;
-	background-image: url("assents/logo.png");
-	color: white;
-} 
+
 
 .teste { 
 	height: 70px;
